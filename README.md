@@ -14,7 +14,7 @@
 * SHA512/224
 * SHA512/256
 
-### Supported Flags
+### Supported Flags:
 * '-p' : `Echo STDIN to STDOUT before printing checksum.`
 * '-q' : `Quiet mode.`
 * '-r' : `Reverse the format of the output.`
