@@ -29,8 +29,8 @@
 * Parse commands from STDIN the same way that OpenSSL does
 
 ### Resources
-1. `man md5` `man sha256` `man sha512`
-2. `https://en.wikipedia.org/wiki/MD5` `https://en.wikipedia.org/wiki/SHA-2`
-3. `https://www.ietf.org/rfc/rfc1321.txt`
-4. `https://tools.ietf.org/html/rfc6234`
-5. `https://csrc.nist.gov/csrc/media/publications/fips/180/4/final/documents/fips180-4-draft-aug2014.pdf`
+1. `[man md5` `man sha256` `man sha512]`
+2. `[https://en.wikipedia.org/wiki/MD5]` `[https://en.wikipedia.org/wiki/SHA-2]`
+3. `[https://www.ietf.org/rfc/rfc1321.txt]`
+4. `[https://tools.ietf.org/html/rfc6234]`
+5. `[https://csrc.nist.gov/csrc/media/publications/fips/180/4/final/documents/fips180-4-draft-aug2014.pdf]`
