@@ -31,7 +31,7 @@
 ### Resources
 1. `man md5` `man sha256` `man sha512`
 2. Wikipedia - [MD5](https://en.wikipedia.org/wiki/MD5) [SHA-2](https://en.wikipedia.org/wiki/SHA-2)
-3. [IETF MD5 Documentation](https://www.ietf.org/rfc/rfc1321.txt)
-4. [IETF SHA2 Documentation](https://tools.ietf.org/html/rfc6234)
+3. [IETF MD5 Documentation (RFC 1321)](https://tools.ietf.org/html/rfc1321)
+4. [IETF SHA2 Documentation (RFC 6234)](https://tools.ietf.org/html/rfc6234)
 5. [FEDERAL INFORMATION PROCESSING STANDARDS
 PUBLICATION 180-4](https://csrc.nist.gov/csrc/media/publications/fips/180/4/final/documents/fips180-4-draft-aug2014.pdf)
