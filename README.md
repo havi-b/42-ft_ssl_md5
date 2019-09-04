@@ -21,13 +21,13 @@
 * '-s' : `Print the sum of the given string.`
 
 ### Bonus:
-* 'SHA1'
-* 'SHA224'
-* 'SHA383'
-* 'SHA512'
-* 'SHA512/224'
-* 'SHA512/256'
-* 'Parse commands from STDIN the same way that OpenSSL does'
+* SHA1
+* SHA224
+* SHA383
+* SHA512
+* SHA512/224
+* SHA512/256
+* Parse commands from STDIN the same way that OpenSSL does
 
 ### Resources
 1. `man md5` `man sha256` `man sha512`
