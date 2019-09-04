@@ -34,4 +34,4 @@
 3. [IETF MD5 Documentation](https://www.ietf.org/rfc/rfc1321.txt)
 4. [IETF SHA2 Documentation](https://tools.ietf.org/html/rfc6234)
 5. [FEDERAL INFORMATION PROCESSING STANDARDS
-PUBLICATION PUBLICATION 180-4](https://csrc.nist.gov/csrc/media/publications/fips/180/4/final/documents/fips180-4-draft-aug2014.pdf)
+PUBLICATION 180-4](https://csrc.nist.gov/csrc/media/publications/fips/180/4/final/documents/fips180-4-draft-aug2014.pdf)
